@@ -1,0 +1,18 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "ShoppingMongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "fs06_shopping",
+    "password": "",
+    "name": "ShoppingMongo",
+    "user": "",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "connector": "mongodb"
+  }
+}
